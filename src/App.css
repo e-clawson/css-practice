@@ -1,0 +1,17 @@
+.title {
+  background-color: aqua;
+  text-align: center;
+  padding: 20px;
+  margin: 5px;
+}
+.text-box{
+  background-color: #9932cc;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+.text-boxes {
+  display: flex;
+  justify-content: center;
+}
