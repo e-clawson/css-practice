@@ -7,6 +7,12 @@ function App() {
     <div className='title'>
       <h1>CSS Practice!</h1>
     </div>
+    <div className='text'>
+      <h2>justify-content</h2>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content">MDN Docs</a>
+      <a href="https://www.w3schools.com/cssref/css3_pr_justify-content.php">W3 Schools</a>
+      <p>The Justify Content property aligns a flexible container's items horizontally (to align things vertically, one must use the align-items property instead) </p>
+    </div>
     <div className='text-boxes'>
         <p className='text-box'>Box 1</p>
         <p className='text-box'>Box 2</p>
